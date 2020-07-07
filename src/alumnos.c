@@ -41,6 +41,11 @@ const alumno_t ALUMNOS[] = {
     &FERNANDO_DANIELE,
 };
 
+/**
+ * @brief Cantidad de alumno en vector alumnos
+ * 
+ */
+
 const int CANTIDAD_ALUMNOS = (sizeof(ALUMNOS) / sizeof(alumno_t));
 
 /*=====[Definitions of private global variables]=============================*/
